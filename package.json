@@ -1,0 +1,29 @@
+{
+  "name": "gql-client",
+  "version": "0.0.1",
+  "description": "A Simple, Asynchronous GraphQL Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyzoid/gql-client.git"
+  },
+  "keywords": [
+    "graphql",
+    "client",
+    "simple",
+    "lightweight",
+    "asynchronous"
+  ],
+  "author": "Tyler Dence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyzoid/gql-client/issues"
+  },
+  "homepage": "https://github.com/tyzoid/gql-client#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}

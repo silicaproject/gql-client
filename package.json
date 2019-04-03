@@ -1,14 +1,14 @@
 {
-  "name": "gql-client",
+  "name": "silica-graphql-client",
   "version": "0.0.1",
-  "description": "A Simple, Asynchronous GraphQL Client",
+  "description": "A Simple, Asynchronous GraphQL Client, from the Silica Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tyzoid/gql-client.git"
+    "url": "git+https://github.com/silicaproject/graphql-client.git"
   },
   "keywords": [
     "graphql",
@@ -20,9 +20,9 @@
   "author": "Tyler Dence",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tyzoid/gql-client/issues"
+    "url": "https://github.com/silicaproject/graphql-client/issues"
   },
-  "homepage": "https://github.com/tyzoid/gql-client#readme",
+  "homepage": "https://github.com/silicaproject/graphql-client#readme",
   "dependencies": {
     "axios": "^0.18.0"
   }
